@@ -1,5 +1,7 @@
 # 🎨 Canvas Image Editor
 
+<img width="1903" height="1076" alt="Image" src="https://github.com/user-attachments/assets/3e95d036-deaa-42d7-b0e8-8f4b91403b84" />
+
 A modern, browser-based image editor built using **HTML, CSS, and JavaScript**.  
 This project allows users to apply real-time image filters and presets directly in the browser using the **Canvas API**.
 
@@ -8,8 +10,7 @@ This project allows users to apply real-time image filters and presets directly 
 ## 🚀 Features
 
 - Upload images directly from your device
-- Real-time image editing using canvas filters
-- Real-time filters (brightness, contrast, saturation, etc.)
+- Customizable image filters (brightness, contrast, saturation, and more)
 - One-click presets (cinematic, noir, cyberpunk, dreamy…)
 - Reset all filters instantly
 - Download the edited image
@@ -35,7 +36,7 @@ This project allows users to apply real-time image filters and presets directly 
 
 ## 🌐 Live Demo
 
-👉 
+👉 <a target="_blank" href="https://ri1tik.github.io/Canvas-image-editor/">Click Here</a> for live demo
 
 ---
 
